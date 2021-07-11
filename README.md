@@ -1,0 +1,2 @@
+# Password-Manager
+This password manager application is made in Python using Tkinter, pandas and json library.  This is a very useful application for keeping all your passwords in one place and even generate strong passwords for your favourite websites and apps.  Using this app we can save login credentials for all websites and apps locally in a json file and also retrieve them from the file when necessary.  Generating a password or searching for login credentials of any website automatically saves the password in your clipboard for future use.
